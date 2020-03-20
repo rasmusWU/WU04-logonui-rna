@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="google"
+   class="svg-inline--fa fa-google fa-w-16"
+   role="img"
+   viewBox="0 0 488 512"
+   version="1.1"
+   id="svg44"
+   sodipodi:docname="google-brands.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata50">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs48" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1718"
+     inkscape:window-height="1408"
+     id="namedview46"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="244"
+     inkscape:cy="256"
+     inkscape:window-x="1913"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg44" />
+  <path
+     fill="currentColor"
+     d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"
+     id="path42" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2.16949153"
+     d="M 221.2332,501.55201 C 88.183871,486.4509 -11.276911,364.76561 2.3124946,233.71355 8.7922705,171.22456 32.647784,121.72974 76.77634,79.217831 115.66036,41.758325 157.18471,20.781832 209.13276,12.356487 c 70.04737,-11.36083531 144.32058,8.985586 195.31997,53.506 l 8.37137,7.307876 -32.80722,31.131317 c -32.19103,30.54659 -32.89837,31.06441 -37.65951,27.56898 -18.46112,-13.55336 -31.62153,-20.81936 -46.78699,-25.8316 -55.92605,-18.483754 -119.74905,-1.05897 -161.56985,44.11136 -42.971195,46.41286 -52.705489,116.37951 -24.29481,174.62246 16.33421,33.48573 36.8571,54.87009 68.77459,71.6615 41.16882,21.6584 98.93854,21.92318 142.75359,0.65429 20.36994,-9.88804 46.61027,-36.63243 57.31263,-58.41356 4.45114,-9.05884 8.63748,-20.53003 9.30295,-25.49152 l 1.20997,-9.02088 h -69.70939 -69.70938 v -41.22034 -41.22034 h 116.86868 116.86869 l 1.34472,8.1356 c 2.5186,15.23751 1.40203,60.66501 -1.96578,79.9775 -19.71784,113.07047 -104.79488,186.95775 -221.62983,192.47996 -12.88027,0.60878 -30.83255,0.26539 -39.89396,-0.76308 z"
+     id="path52"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,248 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.wrapper {
+    background-image: url(../img/bgpattern.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 170px -200px;
+    background-color: #0f0f0f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#button1 {
+    color: #f2f2f2;
+    font-size: 25px;
+}
+
+#button2 {
+    color: #797979;
+    font-size: 15px;
+    transition: ease 0.2s;
+}
+
+#button2:hover {
+    color: #f2f2f2;
+    font-size: 25px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    margin-top: 20%;
+    margin-bottom: 30%;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+}
+
+#login p:last-of-type {
+    text-align: end;
+}
+
+main p {
+    font-size: larger;
+}
+
+main input {
+    width: 100%;
+    background-color: #0f0f0f;
+    color: #f2f2f2;
+}
+
+main input ::placeholder {
+    color: #6F6F6F;
+    opacity: 1;
+}
+
+#text1 {
+    color: #D90B6A;
+    margin-bottom: 8%;
+}
+
+#text2 {
+    color: #D90B6A;
+    margin-top: 13%;
+    margin-bottom: 8%;
+}
+
+#recover {
+    color: #C2C2C2;
+    font-size: small;
+    text-align: right;
+    margin-right: 7px;
+    margin-top: 3px;
+}
+
+.logon {
+    width: 100%;
+    height: auto;
+    margin-top: 25%;
+    margin-left: 80%;
+}
+
+.logon img {
+    width: 18%;
+}
+
+footer {
+    width: 100%;
+    bottom: 100px;
+    text-align: center;
+}
+
+footer p {
+    color: #6F6F6F;
+    margin-bottom: 3%;
+    margin-top: 20%;
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icons a {
+    width: 10%;
+}
+
+#fb {
+    width: 67%;
+}
+
+@media screen and (min-width: 640px) and (max-width: 1025px) {
+
+    .wrapper {
+        background-position: 400px -250px;
+    }
+
+    header {
+        width: 80%;
+        margin-top: 12%;
+        margin-bottom: 9%;
+    }
+
+    main {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .logon {
+        margin-top: 15%;
+        margin-left: 140%;
+    }
+
+    .logon img {
+        width: 14%;
+    }
+
+    #login {
+        width: 70%;
+    }
+
+    #text1 {
+        margin-bottom: 5%;
+    }
+
+    #text2 {
+        margin-top: 10%;
+        margin-bottom: 5%;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer p {
+        margin-top: 6%;
+        margin-bottom: 3%;
+    }
+
+    .icons {
+        width: 70%;
+    }
+
+    .icons a {
+        width: 8%;
+    }
+}
+
+@media screen and (min-width: 1026px) {
+
+    .wrapper {
+        background-position: 1000px -50px;
+    }
+
+    header {
+        width: 40%;
+        margin-top: 8%;
+        margin-bottom: 5%;
+    }
+
+    main {
+        width: 40%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .logon {
+        margin-top: 10%;
+        margin-left: 125%;
+    }
+
+    .logon img {
+        width: 10%;
+    }
+
+    #login {
+        width: 50%;
+    }
+
+    #text1 {
+        margin-bottom: 3%;
+    }
+
+    #text2 {
+        margin-top: 6%;
+        margin-bottom: 3%;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer p {
+        margin-top: 3%;
+        margin-bottom: 1%;
+    }
+
+    .icons {
+        width: 35%;
+    }
+
+    .icons a {
+        width: 5%;
+    }
+}
